@@ -1,5 +1,7 @@
 ---
-
+layout: default
+title: Multi-Agentic Recommender Systems
+---
 
 # Multi-Agentic Recommender Systems
 
@@ -163,4 +165,3 @@ Open access support is provided by:
 * Walmart Inc.
 * DeepMind Technologies Limited
 * Polytechnic University of Bari
-
