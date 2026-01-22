@@ -1,7 +1,5 @@
 ---
-layout: default
-title: Multi-Agentic Recommender Systems
----
+
 
 # Multi-Agentic Recommender Systems
 
