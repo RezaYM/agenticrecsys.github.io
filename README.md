@@ -2,11 +2,6 @@
 
 GitHub Pages site for the RecSys 2025 tutorial.
 
-## Local preview
+## Deployment
 
-To build and preview the site locally:
-
-```bash
-bundle install
-bundle exec jekyll serve
-```
+This repository is deployed automatically with GitHub Pages on every push to the default branch.

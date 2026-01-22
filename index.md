@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Multi-Agentic Recommender Systems
+permalink: /
 ---
 
 # Multi-Agentic Recommender Systems
